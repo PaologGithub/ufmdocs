@@ -1,0 +1,5 @@
+[book]
+authors = ["Paolog"]
+language = "en"
+src = "src"
+title = "Ursina For Mobile - Docs"
