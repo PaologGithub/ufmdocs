@@ -1,3 +1,3 @@
 # Android building dependencies
 To run your app, you need to have a working device/emulator with [USB debugging](https://www.howtogeek.com/129728/how-to-enable-developer-options-menu-and-enable-and-usb-debugging-on-android/).
-Then, you need to install [ABD](https://www.xda-developers.com/install-adb-windows-macos-linux/), [Java Development Kit](https://www.oracle.com/fr/java/technologies/downloads/), and [BundleTool](https://github.com/google/bundletool/releases).
+Then, you need to install [ADB](https://www.xda-developers.com/install-adb-windows-macos-linux/), [Java Development Kit](https://www.oracle.com/fr/java/technologies/downloads/), and [BundleTool](https://github.com/google/bundletool/releases).
