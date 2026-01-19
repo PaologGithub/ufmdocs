@@ -6,8 +6,8 @@
 - [Setting up the environment](./chapters/1-env/00-getting-started.md)
     - [Cloning the repo](./chapters/1-env/01-cloning-the-repo.md)
     - [Python dependencies](./chapters/1-env/02-python.md)
-    - [Setting up your game](./chapters/1-env/04-setting-up-game.md)
-    - [Android dependencies](./chapters/1-env/05-android.md)
+    - [Understanding the structure](./chapters/1-env/03-understand-the-structure.md)
+    - [Android dependencies](./chapters/1-env/04-android.md)
 
 # Build and Install
 - [Building your game](./chapters/2-bld/00-building-game.md)
